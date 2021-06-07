@@ -1,0 +1,8 @@
+2|areaDesporto|yoga|estudante|15|30|20|30
+9|areaDesporto|ensinarYoga|InstrutorDeYoga|1|30|150|-50
+6|areaDesporto|limpeza|zelador|2|60|250|-250
+4|areaDePicnic|picnic|estudante|45|45|10|50
+7|areaDePicnic|limpeza|zelador|2|60|250|-250
+1|areaDesporto|correr|desportista|25|25|15|5
+3|lago|alimentarPatos|estudante|1|5|650|900
+10|siteName|actiName|user|99999|40|80|75
