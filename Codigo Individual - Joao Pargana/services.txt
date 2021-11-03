@@ -1,0 +1,4 @@
+1|Agua|0|Geral|50
+2|Luz|0|Geral|50
+3|Relvado|1|Manutencao|25
+4|Rega|1|Manutencao|25

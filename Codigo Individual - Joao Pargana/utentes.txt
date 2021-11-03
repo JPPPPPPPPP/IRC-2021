@@ -1,0 +1,5 @@
+1|1|Afonso|estudante|0|20|30
+2|2|Joao|estudante|10|50|60
+3|2|Antonio|estudante|20|30|30
+4|2|Ines|advogada|40|100|45
+5|1|USERNAME|USER|760|600|10|
